@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdazmeen
 - 👀 I’m interested in project
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on infosys
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
