@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdazmeen
-- 👀 I’m interested in working
+- 👀 I’m interested in project
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on infosys
 - 📫 How to reach me ...
